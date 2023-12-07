@@ -3,3 +3,4 @@ Ruby on Rail course. As the main part of the course, a web application was devel
 
 * Ruby version 3.2.2
 
+[![cap-sell-IT-1.png](https://i.postimg.cc/xCXgx3Qc/cap-sell-IT-1.png)](https://postimg.cc/Vrcj5Md8)
