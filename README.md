@@ -1,24 +1,5 @@
 # README
+Ruby on Rail course. As the main part of the course, a web application was developed using RoR similar to the famous Wallapop application. A platform dedicated to the buying and selling of second-hand products between users over the Internet.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+* Ruby version 3.2.2
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
